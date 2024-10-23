@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Logic
+  - GeneradorObstaculos
+  - AvisoObstaculo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Coche
+  - Water
+  - UI
+  - Moneda
+  - Obstaculo
+  - Suelo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 697788443
+    locked: 0
+  - name: Marcas
+    uniqueID: 249095637
+    locked: 0
+  - name: Objetos
+    uniqueID: 2226779129
+    locked: 0
+  - name: Objetos2
+    uniqueID: 1129704191
+    locked: 0
